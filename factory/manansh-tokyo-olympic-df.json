@@ -1,0 +1,9 @@
+{
+	"name": "manansh-tokyo-olympic-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61f3af52-0843-4e7c-a0f2-5a1a1af59581",
+		"tenantId": "7c0c36f5-af83-4c24-8844-9962e0163719"
+	}
+}
